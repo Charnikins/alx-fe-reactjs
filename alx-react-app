@@ -1,4 +1,3 @@
-Clones the alx-fe-reactjs repository from GitHub to the local machine.
 git clone https://github.com/Charnikins/alx-fe-reactjs.git
 git branch -M main
 git push -u origin main
