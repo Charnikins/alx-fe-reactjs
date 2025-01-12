@@ -1,0 +1,10 @@
+git clone https://github.com/Charnikins/alx-fe-reactjs.git
+cd alx-fe-reactjs
+npm create vite@latest alx-react-app -- --template react
+cd alx-react-app
+npm install
+npm run dev
+npm start
+npm install react react-dom
+npm install react-router-dom
+npm install --save react-router-dom@6
